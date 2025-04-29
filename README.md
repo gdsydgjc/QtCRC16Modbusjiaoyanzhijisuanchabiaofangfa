@@ -1,0 +1,1 @@
+# QtCRC16Modbusjiaoyanzhijisuanchabiaofangfa
